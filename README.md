@@ -1,5 +1,5 @@
 # ReadMe
-Simple extensions that congratulates you on every save to honor your work.
+Simple VSCode extensions that congratulates you on every save to honor your work.
 Displays motivationals in the status bar
 
 ## Install
