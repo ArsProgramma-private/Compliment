@@ -1,16 +1,17 @@
 {
 	"name": "compliment",
-	"publisher": "perenz",
+	"publisher": "arsprogramma",
 	"repository": "github:ArsProgramma/compliment",
 	"displayName": "compliment",
-	"description": "Simple tooltip extensions displaying translation-values when hovering over their keys. ",
+	"description": "Simple extensions that congratulates you on every save to honor your work.\r\n Displays motivationals in the status bar.",
 	"version": "0.0.1",
 	"preview": true,
 	"keywords": [
 		"vscode",
-		"translation",
-		"tooltip",
-		"peek",
+		"motivation",
+		"statusbar",
+		"fun",
+		"gadget",
 		"util"
 	],
 	"engines": {

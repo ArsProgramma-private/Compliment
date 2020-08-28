@@ -1,7 +1,28 @@
-export const messages: string [] = [
+export const messages: string[] = [
     "Great save!",
     "Very well done!",
     "I see what you did here!",
     "Amazing!",
-    "Nobody codes like you."
+    "Nobody codes like you!",
+    "Awesome!",
+    "Just great!",
+    "Yes, you did it!",
+    "Pure genius!",
+    "101% awesome",
+    "Incredible!",
+    "That was a really good piece of code!",
+    "Well done! Don't forget to commit that.",
+    "Not everyone could have done this that well!",
+    "Wow!",
+    "Perfect!",
+    "Just plain impressive!",
+    "Formidable!",
+    "Striking!",
+    "Sensational code!",
+    "Impressing!",
+    "Impressing work!",
+    "Sweeping!",
+    "You're a performer for sure!",
+	"You achieved awesomeness!",
+	"Great! Nuff said."
 ];
